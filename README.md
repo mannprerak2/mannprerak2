@@ -4,5 +4,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mannprerak2&count_private=true&show_icons=true&hide=issues&hide_border=true)
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=mannprerak2&layout=compact&hide_border=true&hide=C%23)
 
-[![mannprerak2.github.io](https://img.shields.io/badge/-mannprerak2.github.io-009999?style=flat-square&logo=Plex&logoColor=white)](https://mannprerak2.github.io) [![Linkedin@mannprerak2](https://img.shields.io/badge/-mannprerak2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mannprerak2/)](https://www.linkedin.com/in/mannprerak2/)
- [![Discord@mannprerak2#3664](https://img.shields.io/badge/-mannprerak2%233664-7289da?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com)
+[![mannprerak2.github.io](https://img.shields.io/badge/-mannprerak2.github.io-009999?style=for-the-badge&logo=Plex&logoColor=white)](https://mannprerak2.github.io) [![Linkedin@mannprerak2](https://img.shields.io/badge/-mannprerak2-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mannprerak2/)](https://www.linkedin.com/in/mannprerak2/)
+ [![Discord@mannprerak2#3664](https://img.shields.io/badge/-mannprerak2%233664-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com)
