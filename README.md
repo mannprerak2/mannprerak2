@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mannprerak2&count_private=true&show_icons=true&hide=issues&hide_border=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mannprerak2&count_private=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&text_color=198A99"/>
 
 - 📚 B.Tech, Computer Engineering undergrad at [@DTU](http://dtu.ac.in/).
 - 🎯 Google Summer of Code, Dart - 2020 [Student](https://gist.github.com/mannprerak2/e4530e6566b35cb94f8f1b340970973a). Checkout [dart-lang/ffigen](https://github.com/dart-lang/ffigen).
